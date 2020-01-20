@@ -1,2 +1,5 @@
 # hello-word
-just another repository
+
+hello
+
+good good study , day day up
